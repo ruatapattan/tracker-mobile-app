@@ -1,5 +1,5 @@
 # tracker-mobile-app
-Simple route tracking mobile application with basic CRUD features. created with React Native and expo.
+Simple route tracking mobile application with basic CRUD and authentication features. created with React Native and expo.
 
 *Note*
 ---
