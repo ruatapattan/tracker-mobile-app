@@ -12,3 +12,7 @@ web-build/
 
 # macOS
 .DS_Store
+
+# environment file
+environment.js
+_mockLocation.js
